@@ -9,4 +9,4 @@ This article talks about several myths about the way in which AI will influence 
 
 ### Keis comment:
 
-now that i know that ai can be inexpensive i'm wondering how companies and people in generalk  will continue to integrate AI into their work. 
+Now that I know that ai can be inexpensive i'm wondering how companies and people in general  will continue to integrate AI into their work. 
